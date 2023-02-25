@@ -25,7 +25,7 @@ if (hora < 12){
 
 // 2) Declare um valor numérico e analise se ele é maior ou não do que 10. Se sim, imprima na tela: "Esse número é maior que 10". Se não for, imprima: "Esse número é menor que 10".
 
-let numero = 22
+let numero = 23
 if (numero > 10){
     console.log("Esse número é maior que 10.");
 } else {
